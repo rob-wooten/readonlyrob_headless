@@ -10,7 +10,7 @@ interface Props {
 }
 
 function Header({
-  title = 'Headless by WP Engine',
+  title = 'Headless by WP Engine - v1',
   description,
 }: Props): JSX.Element {
   // TODO: accept a `menuItems` prop to receive menu items from WordPress.
